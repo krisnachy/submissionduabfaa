@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SubmissionTwo</string>
+    <string name="nama_user">Nama User</string>
+    <string name="username">Username</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="nulled">NULL</string>
+    <string name="location">Location</string>
+    <string name="repositories">Repositories</string>
+    <string name="company">Company</string>
+    <string name="separator">Separator</string>
+</resources>
